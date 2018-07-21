@@ -1,0 +1,7 @@
+.my-modal, .my-modal2 {
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    display: none;
+    padding: 20px;
+}
